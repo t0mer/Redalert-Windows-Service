@@ -1,0 +1,22 @@
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\bin\Debug\BizAlerter.IndexerMonitoring.exe.config
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\bin\Debug\BizAlerter.IndexerMonitoring.exe
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\bin\Debug\BizAlerter.IndexerMonitoring.pdb
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\obj\Debug\BizAlerter.IndexerMonitoring.csprojResolveAssemblyReference.cache
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\obj\Debug\BizAlerter.IndexerMonitoring.exe
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\obj\Debug\BizAlerter.IndexerMonitoring.pdb
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\obj\Debug\BizAlerter.IndexerMonitoring.Monitor.resources
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\obj\Debug\BizAlerter.IndexerMonitoring.csproj.GenerateResource.Cache
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\bin\Debug\BizAlerter.Email.dll
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\bin\Debug\BizAleter.Telegram.dll
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\bin\Debug\BizAlerter.Email.pdb
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\bin\Debug\BizAleter.Telegram.pdb
+c:\users\tomer.k\documents\visual studio 2015\Projects\BizAlerter\BizAlerter.IndexerMonitoring\obj\Debug\BizAlerter.IndexerMonitoring.ProjectInstaller.resources
+C:\Users\tomer.k\Desktop\RedAlert\bin\Debug\BizAlerter.IndexerMonitoring.exe.config
+C:\Users\tomer.k\Desktop\RedAlert\obj\Debug\BizAlerter.IndexerMonitoring.exe
+C:\Users\tomer.k\Desktop\RedAlert\obj\Debug\BizAlerter.IndexerMonitoring.pdb
+C:\Users\tomer.k\Desktop\RedAlert\obj\Debug\BizAlerter.IndexerMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\tomer.k\Desktop\RedAlert\obj\Debug\BizAlerter.IndexerMonitoring.Monitor.resources
+C:\Users\tomer.k\Desktop\RedAlert\obj\Debug\BizAlerter.IndexerMonitoring.ProjectInstaller.resources
+C:\Users\tomer.k\Desktop\RedAlert\obj\Debug\BizAlerter.IndexerMonitoring.csproj.GenerateResource.Cache
+C:\Users\tomer.k\Desktop\RedAlert\bin\Debug\BizAlerter.IndexerMonitoring.exe
+C:\Users\tomer.k\Desktop\RedAlert\bin\Debug\BizAlerter.IndexerMonitoring.pdb

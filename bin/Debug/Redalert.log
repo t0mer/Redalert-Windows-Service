@@ -1,0 +1,2659 @@
+﻿Tick Tock...
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+System.IO.IOException: The process cannot access the file 'D:\Backup\Desktop\RedAlert\bin\Debug\Redalert.log' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at RedAlert.OrefListener.Logger(String info) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 129
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 78
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+System.IO.IOException: The process cannot access the file 'D:\Backup\Desktop\RedAlert\bin\Debug\Redalert.log' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at RedAlert.OrefListener.Logger(String info) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 129
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 78
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
+Tick Tock...
+System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at RedAlert.OrefListener.timer_Tick(Object sender, EventArgs e) in d:\Backup\Desktop\RedAlert\Helpers\OrefListener.cs:line 89
