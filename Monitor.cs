@@ -2,6 +2,8 @@
 using System;
 using System.Configuration;
 using System.IO;
+using System.Net;
+using System.Net.Sockets;
 using System.Runtime.InteropServices;
 using System.ServiceProcess;
 using System.Text;
@@ -17,6 +19,7 @@ namespace RedAlert
         private static extern bool SetServiceStatus(System.IntPtr handle, ref ServiceStatus serviceStatus);
         private bool IsTelegramEnabled = bool.Parse(ConfigurationManager.AppSettings["IsTelegramEnabled"]);
         private bool IsMqttEnabled = bool.Parse(ConfigurationManager.AppSettings["IsMqttEnabled"]);
+        private bool IsUdpEnabled = bool.Parse(ConfigurationManager.AppSettings["IsUdpEnabled"]);
         MqttPublisher _mqttPublisher;
 
         public Monitor(string[] args)
@@ -29,7 +32,7 @@ namespace RedAlert
 
         }
 
-      
+
 
 
 
@@ -39,12 +42,12 @@ namespace RedAlert
         /// <param name="args"></param>
         protected override void OnStart(string[] args)
         {
-          
+
             ServiceStatus serviceStatus = new ServiceStatus();
             serviceStatus.dwCurrentState = ServiceState.SERVICE_START_PENDING;
             serviceStatus.dwWaitHint = 100000;
             SetServiceStatus(this.ServiceHandle, ref serviceStatus);
-           
+
             //Start the listener
             _listener.Start();
 
@@ -75,17 +78,21 @@ namespace RedAlert
         //When there is alert, event is rising and you will catch it here
         void _listener_OnAlert(object sender, AlertEventArgs e)
         {
-         
-            PublishMqttTopic(e);
+
+            if (IsMqttEnabled)
+                PublishMqttTopic(e);
 
             if (IsTelegramEnabled)
                 SendTelegramAlert(e);
+
+            if (IsUdpEnabled)
+                SendUpdAlert(e);
 
         }
 
         private void PublishMqttTopic(AlertEventArgs e)
         {
-            
+
             _mqttPublisher.Publish(e.Alert);
         }
 
@@ -103,7 +110,36 @@ namespace RedAlert
             bot.Dispose();
         }
 
-        
+
+        private void SendUpdAlert(AlertEventArgs e)
+        {
+            try
+            {
+                Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
+                IPAddress serverAddr = IPAddress.Parse(ConfigurationManager.AppSettings["UdpAddress"]);
+                IPEndPoint endPoint = new IPEndPoint(serverAddr, int.Parse(ConfigurationManager.AppSettings["UdpPort"]));
+                string City = ConfigurationManager.AppSettings["City"];
+                StringBuilder Areas = new StringBuilder();
+                foreach (var alert in e.Alert.data)
+                {
+                    if (City == alert)
+                    {
+                        byte[] send_buffer = Encoding.ASCII.GetBytes("RedAlert\n");
+                        sock.SendTo(send_buffer, endPoint);
+                        
+                    }
+                   
+                }
+                sock.Close();
+                
+            }
+            catch(Exception ex)
+            {
+                this.Logger(ex);
+            }
+        }
+
+
         void _mqttPublisher_OnError(object sender, ExceptionEventArgs e)
         {
             Logger(e.exeption);

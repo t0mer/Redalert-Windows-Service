@@ -27,3 +27,16 @@ D:\Backup\Desktop\RedAlert\obj\Debug\RedAlert.csprojResolveAssemblyReference.cac
 C:\tfs\RedAlert\bin\Debug\RedAlert.exe.config
 C:\tfs\RedAlert\obj\Debug\RedAlert.exe
 C:\tfs\RedAlert\obj\Debug\RedAlert.pdb
+C:\tfs\Redalert-Windows-Service\bin\Debug\RedAlert.exe.config
+C:\tfs\Redalert-Windows-Service\obj\Debug\RedAlert.exe
+C:\tfs\Redalert-Windows-Service\obj\Debug\RedAlert.pdb
+C:\tfs\Redalert-Windows-Service\obj\Debug\RedAlert.csprojResolveAssemblyReference.cache
+C:\tfs\Redalert-Windows-Service\obj\Debug\RedAlert.Monitor.resources
+C:\tfs\Redalert-Windows-Service\obj\Debug\RedAlert.ProjectInstaller.resources
+C:\tfs\Redalert-Windows-Service\obj\Debug\RedAlert.csproj.GenerateResource.Cache
+C:\tfs\Redalert-Windows-Service\bin\Debug\RedAlert.exe
+C:\tfs\Redalert-Windows-Service\bin\Debug\RedAlert.pdb
+C:\tfs\Redalert-Windows-Service\bin\Debug\M2Mqtt.Net.dll
+C:\tfs\Redalert-Windows-Service\bin\Debug\Newtonsoft.Json.dll
+C:\tfs\Redalert-Windows-Service\bin\Debug\M2Mqtt.Net.pdb
+C:\tfs\Redalert-Windows-Service\bin\Debug\Newtonsoft.Json.xml
