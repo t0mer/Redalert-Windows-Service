@@ -104,10 +104,13 @@ namespace RedAlert
             {
                 Areas.Append(alert + "\n");
             }
-            bot.Message = String.Format("{0}\n{1}\n{2}", e.Alert.title, e.AlertDate.ToString("dd/MM/yyyy HH:MM"), Areas);
+            bot.Message = String.Format("{0}\n{1}\n{2}", e.Alert.title, e.AlertDate.ToString("dd/MM/yyyy HH:mm"), Areas);
             bot.SendMessage();
-
-            bot.Dispose();
+            try
+            {
+                bot.Dispose();
+            }
+            catch { }
         }
 
 

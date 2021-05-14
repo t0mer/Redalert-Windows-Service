@@ -18,7 +18,7 @@ namespace RedAlert
         private bool IsDebugMode = bool.Parse(ConfigurationManager.AppSettings["IsDebugMode"]);
         public event EventHandler<AlertEventArgs> OnAlert;
         private string OrefApiUrl = "https://www.oref.org.il/WarningMessages/alert/alerts.json";
-     
+        private List<Alert> alerts = new List<Alert>();
         /// <summary>
         /// Oref Listenr is running Http request to Oref.org.il in order to recive Red Alert Messages
         /// </summary>
@@ -26,6 +26,9 @@ namespace RedAlert
         {
             ServicePointManager.Expect100Continue = true;
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+
+            alerts.Add(new Alert { id = 10000 });
+
             //init time Instance
             timer = new System.Timers.Timer();
             //Set Timer Tick Interval (In miliseconds)
@@ -96,12 +99,13 @@ namespace RedAlert
                     {
                         //Deserializing Json Result into Alert Object
                         Alert alert = JsonConvert.DeserializeObject<Alert>(jsonResult);
-                        
+                        bool AlertFired = alerts.Any(item => item.id == alert.id);
                         //if someone registerd to OnAlert Event, rise it
-                        if(this.OnAlert!=null)
+                        if (this.OnAlert!=null && !AlertFired)
                         {
                             AlertEventArgs args = new AlertEventArgs(alert, DateTime.Now);
                             this.OnAlert(this, args);
+                            alerts.Add(alert);
                         }
                     }
                 }

@@ -28,7 +28,7 @@ namespace RedAlert
         private string apiToken = ConfigurationManager.AppSettings["telegramApi"];
        
         //ChatId - The channel to send the message to
-        private string chatId = "@" + ConfigurationManager.AppSettings["channelId"];
+        private string chatId = ConfigurationManager.AppSettings["channelId"];
         
         //Telegram API Url
         private string telegramApiUrl = ConfigurationManager.AppSettings["telegramApiUrl"];
