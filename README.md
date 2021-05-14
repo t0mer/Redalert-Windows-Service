@@ -22,17 +22,30 @@ Open RedAlert.exe.config in any text editor and edit the required settings as fo
  <appSettings>
     <!--General Settings-->
     <add key="IsDebugMode" value="false"/>
+    
+    <!--Select Alert Region or * for any-->
+    <add key="City" value=""/>
+    
     <!--Telegrem Bot Settings-->
-    <add key="IsTelegramEnabled" value="false"/>
+    <add key="IsTelegramEnabled" value="true"/>
     <add key="telegramApi" value=""/>
-    <add key="channelId" value=""/>
-    <add key="telegramApiUrl" value="https://api.telegram.org/bot{0}/sendMessage?chat_id={1}&amp;text={2}" />
+    <add key="channelId" value="orefredalert"/>
+    <add key="telegramApiUrl" value="https://api.telegram.org/bot{0}/sendMessage?chat_id={1}&amp;text={2}"/>
+    
     <!--Mqtt Settings-->
-    <add key="IsMqttEnabled" value="false"/>
+    <add key="IsMqttEnabled" value="true"/>
     <add key="MqttHost" value=""/>
     <add key="MqttUser" value=""/>
-     <add key="MqttUPAss" value=""/>
- </appSettings>
+    <add key="MqttPass" value=""/>
+
+    <!--UDP Settings-->
+    <add key="IsUdpEnabled" value=""/>
+    <add key="UdpAddress" value=""/>
+    <add key="UdpPort" value=""/>
+   
+    
+    
+  </appSettings>
 ```
 [How to create Telgram Bot](https://techblog.co.il/2019/11/%D7%A9%D7%9C%D7%99%D7%97%D7%AA-%D7%94%D7%95%D7%93%D7%A2%D7%95%D7%AA-%D7%9C%D7%A2%D7%A8%D7%95%D7%A5-%D7%98%D7%9C%D7%92%D7%A8%D7%9D-%D7%91%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94/)
 
